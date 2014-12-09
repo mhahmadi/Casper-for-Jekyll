@@ -2,6 +2,8 @@
 
 The default theme for [Ghost](http://github.com/tryghost/ghost/) modified for use with [Jekyll](https://github.com/jekyll/jekyll).
 
+See it in action [here](http://mhahmadi.github.io/Casper-for-Jekyll/)
+
 ## Copyright & License
 
 Copyright (c) 2013-2014 Ghost Foundation - Released under the MIT License.
